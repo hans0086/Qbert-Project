@@ -1,3 +1,5 @@
+https://www.assetstore.unity3d.com/en/#!/content/15897 - Rabbit Character Model
+https://www.assetstore.unity3d.com/en/#!/content/22986 - Spider Enemy Model
 http://soundbible.com/1343-Jump.html - Jump Sound
 http://soundbible.com/2103-1-Person-Cheering.html - Win Sound
 http://soundbible.com/62-Crowd-Boo.html - Die Sound
@@ -5,3 +7,10 @@ http://soundbible.com/1830-Sad-Trombone.html - Game Over Sound
 http://soundbible.com/2067-Blop.html - Menu Select Sound
 http://soundbible.com/1189-Common-Tern-Tearrr.html - Spawning Spiders
 http://www.dafont.com/theme.php?cat=301&page=6 - Font
+http://soundbible.com/85-Cartoon-Hop.html - Enemy Jump Sound
+http://soundbible.com/1728-Spit-Splat-2.html - Enemy Falling Sound
+http://soundbible.com/1636-Power-Up-Ray.html - Warp Sound
+http://downloads.khinsider.com/game-soundtracks/album/donkey-kong-country-02-diddys-kong-quest/nintendo-17-stickerbush-symphony.mp3
+http://downloads.khinsider.com/game-soundtracks/album/donkey-kong-country/21-gang-plank-galleon.mp3
+http://downloads.khinsider.com/game-soundtracks/album/donkey-kong-country/08-aquatic-ambiance.mp3
+http://downloads.khinsider.com/game-soundtracks/album/donkey-kong-country/07-bonus-room-blitz.mp3
